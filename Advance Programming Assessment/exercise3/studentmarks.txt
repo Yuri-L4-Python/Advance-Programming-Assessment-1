@@ -1,0 +1,6 @@
+5
+8439,Jake Hobbs,10,11,10,43
+9123,Fred Smith,15,14,18,70
+7564,Jo Huckleberry,20,18,20,90
+6753,Susan Clark,8,12,9,40
+8890,Tom Riddle,16,17,15,80
